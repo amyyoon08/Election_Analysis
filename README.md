@@ -44,8 +44,8 @@ As can be seen from the analysis that:
 
 ### Election Audit Summary 
 
-In this case, we can use the input() method to get the input from user so that we can check the votes for each candidates we want instead of showing the whole dataset.
-Another one is that we can add more code lines to check the votes for states.
+In this case, we can use the input() built-in method to get the input from user so that we can check the votes for each candidates we want instead of showing the whole dataset.
+Another one is that we can add more code lines to check the votes for state instead of county.
 
 ## Challenge Overview
 
